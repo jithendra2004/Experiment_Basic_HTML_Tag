@@ -14,22 +14,16 @@ Add your Name and Reference Number using heading tag
 Execute the program
 
 # CODE
-~~~<!DOCTYPE html>
+~~~
 <html>
 
 <body>
-<h1>Name: Karthi Govindharaju</h1>
-<h3>Designation: Assistant Professor (SG) /h3>
+<h1>Name:V.A.Jithendra</h1>
+<h3>Designation:Student (UG)</h3>
 <h5>Dept.:Artificial Intelligence and Data Science</h5>
 </body>
 
 </html>
 ~~~
 # OUPUT
-<html>
-<body>
-<h1>Name: Karthi Govindharaju</h1>
-<h3>Designation: Assistant Professor (SG)</h3>
-<h5>Dept.:Artificial Intelligence and Data Science</h5>
-</body>
-</html>
+
