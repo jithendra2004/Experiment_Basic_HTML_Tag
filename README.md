@@ -26,4 +26,4 @@ Execute the program
 </html>
 ~~~
 # OUPUT
-
+![output](https://github.com/jithendra2004/Experiment_Basic_HTML_Tag/blob/main/output.png?raw=true)
